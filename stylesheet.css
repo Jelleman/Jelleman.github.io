@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+#boxvlak {
+	height: 360px;
+	width: 360px;
+	border: thin solid #000;
+}
+#box1 {
+	background-color: #0F0;
+	height: 180px;
+	width: 180px;
+	float: left;
+	background-image: url(1.png);
+}
+#box2 {
+	background-color: #300;
+	height: 180px;
+	width: 180px;
+	float: left;
+}
+
+#box3 {
+	background-color: #C00;
+	height: 180px;
+	width: 180px;
+	float: left;
+}
+
+#box4 {
+	background-color: #9F0;
+	height: 180px;
+	width: 180px;
+	float: left;
+	background-image: url(2.png);
+}
+
+#regel1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	text-decoration: underline;
+	color: #36C;
+}
+#regel2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-decoration: line-through;
+	color: #CC9;
+}
+#regel3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	text-decoration: blink;
+	color: #699;
+}
